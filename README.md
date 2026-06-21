@@ -97,4 +97,4 @@ Play/Pause
 
 ## Author
 
-Your Name
+K. Divya
